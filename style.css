@@ -35,7 +35,7 @@
 
 }
 .todo-app img{
-    width: 30px;
+    width: 100%;
     margin-left: 10px;
     transform: scale(0.9);
 }
